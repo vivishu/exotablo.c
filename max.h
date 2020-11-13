@@ -1,1 +1,1 @@
-float max(float tab[] , int N);
+float max(float tab[] , int N); // font

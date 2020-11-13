@@ -1,5 +1,5 @@
 #include<stdio.h>
-float max(float tab[] , int N){
+float max(float tab[] , int N){    // fontion  float
   int i,maxi=0;
    for(i=0;i<N;i++){ 
        printf("veuillez entre une valeur tab[%d]\n ",i);
