@@ -1,0 +1,1 @@
+float max(float tab[] , int N);
